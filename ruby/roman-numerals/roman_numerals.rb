@@ -1,4 +1,4 @@
-class Integer < Numeric
+class Integer
   def to_roman
     result = ""
     number = self
